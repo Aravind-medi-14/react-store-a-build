@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "react-store-a/static/css/main.4c4de9ef.css",
-    "main.js": "react-store-a/static/js/main.7eac9c1c.js",
-    "static/js/453.fc43274d.chunk.js": "react-store-a/static/js/453.fc43274d.chunk.js",
-    "index.html": "react-store-a/index.html",
-    "main.4c4de9ef.css.map": "react-store-a/static/css/main.4c4de9ef.css.map",
-    "main.7eac9c1c.js.map": "react-store-a/static/js/main.7eac9c1c.js.map",
-    "453.fc43274d.chunk.js.map": "react-store-a/static/js/453.fc43274d.chunk.js.map"
+    "main.css": "/react-store-a/static/css/main.4c4de9ef.css",
+    "main.js": "/react-store-a/static/js/main.7eac9c1c.js",
+    "static/js/453.fc43274d.chunk.js": "/react-store-a/static/js/453.fc43274d.chunk.js",
+    "index.html": "/react-store-a/index.html",
+    "main.4c4de9ef.css.map": "/react-store-a/static/css/main.4c4de9ef.css.map",
+    "main.7eac9c1c.js.map": "/react-store-a/static/js/main.7eac9c1c.js.map",
+    "453.fc43274d.chunk.js.map": "/react-store-a/static/js/453.fc43274d.chunk.js.map"
   },
   "entrypoints": ["static/css/main.4c4de9ef.css", "static/js/main.7eac9c1c.js"]
 }
